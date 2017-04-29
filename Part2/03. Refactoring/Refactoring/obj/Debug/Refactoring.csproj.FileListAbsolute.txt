@@ -1,0 +1,5 @@
+E:\telerik\KPK\High-Quality-Code-Part-2\Topics\03. Refactoring\homework\RefactoringHomework\Refactoring\bin\Debug\Refactoring.exe
+E:\telerik\KPK\High-Quality-Code-Part-2\Topics\03. Refactoring\homework\RefactoringHomework\Refactoring\bin\Debug\Refactoring.pdb
+E:\telerik\KPK\High-Quality-Code-Part-2\Topics\03. Refactoring\homework\RefactoringHomework\Refactoring\obj\Debug\Refactoring.csprojResolveAssemblyReference.cache
+E:\telerik\KPK\High-Quality-Code-Part-2\Topics\03. Refactoring\homework\RefactoringHomework\Refactoring\obj\Debug\Refactoring.exe
+E:\telerik\KPK\High-Quality-Code-Part-2\Topics\03. Refactoring\homework\RefactoringHomework\Refactoring\obj\Debug\Refactoring.pdb
